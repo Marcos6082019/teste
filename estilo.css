@@ -9,6 +9,32 @@ div {
     height: 200px;
     width: 200px;
 }
+
+#imagem_fundo {
+    background-image: url(Imagens/empadao.webp);
+}
+#imagem_fundo1 {
+    background-image: url(Imagens/arrozcompequi.jpeg);
+}
+#imagem_fundo2 {
+    background-image: url(Imagens/arrozcomsua.jpeg);
+}
+#imagem_fundo3 {
+    background-image: url(Imagens/pamonha.jpeg);
+}
+#imagem_fundo4 {
+    background-image: url(Imagens/doceleite.webp);
+}
+#imagem_fundo5 {
+    background-image: url(Imagens/queijo.png);
+}
+#imagem_fundo6 {
+    background-image: url(Imagens/biscoito.jpeg);
+}
+#imagem_fundo7 {
+    background-image: url(Imagens/docecitra.jpeg);
+}
+
 .logo {
     grid-row: 1;
     grid-column: 1;
@@ -16,7 +42,7 @@ div {
     width: 150px;
 }
 .menu {
-    background-color: rgb(239, 226, 172);
+
     grid-column: 1;
     grid-row: 1;
     height: 500px;
@@ -25,14 +51,14 @@ div {
     top: 150px;
 }
 .receita {
-    background-color: rgb(234, 216, 152);
+    background-color: rgb(231, 228, 220);
     grid-row: 1;
     grid-column: 2;
-    height: 1300px;
+    height: 1400px;
     width: 50%;
 }
 .footer {
-    background-color: rgb(221, 171, 153);
+    background-color: rgb(224, 205, 198);
     grid-row: 2;
     grid-column: 2;
     width: 50%;
@@ -49,30 +75,86 @@ body {
     font-family: rightous, cursive;
 }
 .receita1 {
-    background-color: rgb(234, 216, 152);
+    background-color: rgb(237, 224, 179);
     grid-row: 1;
     grid-column: 2;
     height: 800px;
     width: 50%;
 }
 .footer1 {
-    background-color: rgb(221, 171, 153);
+    background-color: rgb(219, 221, 153);
     grid-row: 2;
     grid-column: 2;
     width: 50%;
     height: 400px;
 }
 .receita2 {
+    background-color: rgb(235, 224, 185);
+    grid-row: 1;
+    grid-column: 2;
+    height: 660px;
+    width: 50%;
+}
+.footer2 {
+    background-color: rgb(221, 207, 153);
+    grid-row: 2;
+    grid-column: 2;
+    width: 50%;
+    height: 400px;
+}
+.receita3 {
+    background-color: rgb(234, 216, 152);
+    grid-row: 1;
+    grid-column: 2;
+    height: 650px;
+    width: 50%;
+}
+.footer3 {
+    background-color: rgb(221, 171, 153);
+    grid-row: 2;
+    grid-column: 2;
+    width: 50%;
+    height: 350px;
+}
+.receita4 {
+    background-color: rgb(234, 216, 152);
+    grid-row: 1;
+    grid-column: 2;
+    height: 500px;
+    width: 50%;
+}
+.footer4 {
+    background-color: rgb(221, 171, 153);
+    grid-row: 2;
+    grid-column: 2;
+    width: 50%;
+    height: 400px;
+}
+.receita5 {
     background-color: rgb(234, 216, 152);
     grid-row: 1;
     grid-column: 2;
     height: 700px;
     width: 50%;
 }
-.footer2 {
+.footer5 {
     background-color: rgb(221, 171, 153);
     grid-row: 2;
     grid-column: 2;
     width: 50%;
     height: 400px;
+}
+.receita6 {
+    background-color: rgb(234, 216, 152);
+    grid-row: 1;
+    grid-column: 2;
+    height: 700px;
+    width: 55%;
+}
+.foote6 {
+    background-color: rgb(221, 171, 153);
+    grid-row: 2;
+    grid-column: 2;
+    width: 50%;
+    height: 450px;
 }
